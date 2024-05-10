@@ -1,5 +1,7 @@
 # Premier Quidditch League API
 
+<img src="/public/images/pql_logo.jpeg" alt="Premier Quidditch League Logo" width="200" />
+
 Welcome to the Premier Quidditch League API! This repository provides a mock REST API for the development and testing of a team and player management interface for the Premier Quidditch League. 
 
 This API is built using JSON Server, which simulates a real server with minimal setup.
